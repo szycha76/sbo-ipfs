@@ -6,7 +6,7 @@
 # customary to leave one space after the ':' except on otherwise blank lines.
 
        |-----handy-ruler------------------------------------------------------|
-go-ipfs: go-ipfs (InterPlanetary File System) (alpha stage - see README.SBo)
+go-ipfs: go-ipfs (InterPlanetary File System)
 go-ipfs:
 go-ipfs: IPFS is a peer-to-peer hypermedia protocol to make the web faster,
 go-ipfs: safer, and more open.  It combines ideas from Git, BitTorrent, SFS,

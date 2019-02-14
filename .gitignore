@@ -1,3 +1,6 @@
 *~
 *.sw[k-p]
 *.tar.gz
+
+# Files downloaded from SBo, for comparison
+*.web
