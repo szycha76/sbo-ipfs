@@ -6,8 +6,7 @@
 # customary to leave one space after the ':' except on otherwise blank lines.
 
          |-----handy-ruler------------------------------------------------------|
-ipfs-pack: ipfs-pack - filesystem packing tool
-ipfs-pack:
+ipfs-pack: ipfs-pack - filesystem packing tool for IPFS (see go-ipfs)
 ipfs-pack: ipfs-pack is a tool and library to work with ipfs and large
 ipfs-pack: collections of data in UNIX/POSIX filesystems. It identifies singular
 ipfs-pack: collections or bundles of data (the pack), creates a light-weight
@@ -17,4 +16,4 @@ ipfs-pack: helps use ipfs in a mode that references the filesystem files directl
 ipfs-pack: and avoids duplicating data (filestore). It carries a standard dataset
 ipfs-pack: metadata file to capture and present information about the dataset and
 ipfs-pack: also helps verify the authenticity of data through a file carrying
-ipfs-pack: cryptographic signatures (PackAuth). Works best with go-ipfs.
+ipfs-pack: cryptographic signatures (PackAuth). Companion program for go-ipfs.
